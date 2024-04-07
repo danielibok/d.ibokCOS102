@@ -1,9 +1,9 @@
 Algorithm for project 1 using pseudocode 
 
-# Initialize dictionaries for girls and boys
+# Input dictionaries for girls and boys
 # Print "GIRLS"
 # Print "Name,Age,Height,Score" 
-# Initialize for loop for girls' information
+# Input for loop for girls' information
 # Print girls' information
 # Print "BOYS" 
 # Print "Name,Age,Height,Score"
